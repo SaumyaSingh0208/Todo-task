@@ -1,5 +1,7 @@
 #Todo App
 
+Deployed url - https://todo-task-two-zeta.vercel.app/
+
 ## Features
 - Add new task
 - Delete existing task
